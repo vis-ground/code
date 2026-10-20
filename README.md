@@ -12,7 +12,7 @@ Google · University of Illinois Urbana-Champaign · UCLA
 </div>
 
 > [!NOTE]
-> **Code and data will be released before December 15, 2026.** Watch or star this repository to be notified.
+> **Code and data will be released before December 15, 2026 (under internal approval process)** Watch or star this repository to be notified.
 
 ![VIS-Ground teaser](assets/teaser.jpg)
 
